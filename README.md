@@ -23,3 +23,17 @@
 17. On Source, select Deploy from a Branch
 18. On **Branch**, select master, hit Save
 19. Head over to the URL given, it is published now
+
+## Glossary
+* Branch - unique set of code changes
+* Clone - essentially copying the repository onto your local machine
+* Commit - individual change to a file
+* Fetch - used to download contents from a remote repository
+* Git - code management and version control system
+* GitHub - code hosting platform for version control and collaboration
+* Merge - Git's method of putting history of the code back together
+* Merge Conflict - happens when you merge branches that have no commits completed
+* Push - used to upload local content to remote repository
+* Pull - notifies other collaborators on changes you might have pushed to a branch on a repository
+* Remote - common repository that all team members can access and exchange changes
+* Repository - contains all files and its history, you can view them and edit them through commits
